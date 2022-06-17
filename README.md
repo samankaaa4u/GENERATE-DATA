@@ -6,7 +6,7 @@
 
 3.) Postgres SQL
 
-# 4.) Libraries
+# LIBRARIES
     pip install psycopg2
 
 #
